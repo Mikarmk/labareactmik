@@ -1,0 +1,16 @@
+.movies-page {
+    padding: 20px;
+    text-align: center;
+}
+
+.search-controls {
+    margin-bottom: 20px;
+}
+
+.search-input,
+.year-input {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid #333;
+}
